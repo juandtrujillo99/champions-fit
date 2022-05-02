@@ -1,5 +1,5 @@
 # champions-fit
-The project were I combine my two loves, workout and design.
+The project where I combine my two loves, workout and design.
 
 This was developed for my second home, Champions Fit was the place where I started my workout sessions and this changed my life completely.
 
